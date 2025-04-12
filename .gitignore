@@ -5,6 +5,11 @@
 [Ll]ogs/
 Build/
 Builds/
+Build/
+TemplateData/
+*.br
+*.js
+*.wasm
 
 # Fișiere mari
 Library/PackageCache/com.unity.burst/.Runtime/burst-llvm-16.dll
