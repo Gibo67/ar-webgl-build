@@ -1,0 +1,11 @@
+# Ignoră fișierele Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Ll]ogs/
+Build/
+Builds/
+
+# Fișiere mari
+Library/PackageCache/com.unity.burst/.Runtime/burst-llvm-16.dll
+Library/PackageCache/com.unity.burst/.Runtime/libburst-llvm-16.dylib
